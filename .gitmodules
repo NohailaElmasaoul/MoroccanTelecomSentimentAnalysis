@@ -1,0 +1,3 @@
+[submodule "MoroccanTelecomSentimentAnalysis"]
+	path = MoroccanTelecomSentimentAnalysis
+	url = https://github.com/NohailaElmasaoul/MoroccanTelecomSentimentAnalysis.git
