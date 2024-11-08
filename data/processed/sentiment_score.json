@@ -1,0 +1,2026 @@
+[
+    {
+      "author_id": "2614705939",
+      "created_at": "2017-02-02T02:07:49.000Z",
+      "lang": "en",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "826975379286085634"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "822055945593352193"
+        }
+      ],
+      "id": "826975379286085634",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom a siro t9awdo",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1235545483134873601",
+      "created_at": "2024-06-08T12:55:46.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799425083527901625"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425078184095867"
+        }
+      ],
+      "id": "1799425083527901625",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 0,
+        "like_count": 67,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1150
+      },
+      "text": "Et dites vous qu\u2019au S\u00e9n\u00e9gal le salaire minimum mensuel varie entre 58.000 et 65.000 francs tandis qu\u2019en France il est aux environs de 1398 euros soit 900.000 francs.\n\nTrop c\u2019est trop. @orange_sn vous allez de force ou de gr\u00e9 baissez vos forfaits.\n\n#OrangeDoynaNdm",
+      "entities": {
+        "mentions": [
+          {
+            "start": 184,
+            "end": 194,
+            "username": "orange_sn",
+            "id": "376733906"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2018-11-28T13:22:01.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "1182768414",
+      "edit_history_tweet_ids": [
+        "1067770588788334592"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1067749859082543104"
+        }
+      ],
+      "id": "1067770588788334592",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@ElMehdiAddal \u0627\u0644\u0633\u0644\u0627\u0645\u060c\n \u0627\u0644\u0645\u063r\u062c\u0648 \u0625\u0631\u0633\u0627\u0644 \u062c\u0645\u064a\u0639 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644 \u062d\u0648\u0644 \u0637\u0644\u0628\u0643\u0645 \u0648 \u0643\u0630\u0627 \u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 \u0645\u0639 \u0627\u0644\u0645\u062d\u064a\u0646\u0629 \u0639\u0628\u0631 \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0627\u0644\u0649 cm@iam.ma \u0645\u0646 \u0627\u062c\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629.\n \u0634\u0643\u063r\u0627\u064b",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "ElMehdiAddal",
+            "id": "1182768414"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1714394553099153408",
+      "created_at": "2024-06-09T04:30:29.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799660315501822079"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799660315501822079",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 48
+      },
+      "text": "@ElhadjiKandji1 Le mot d'ordre c'est quand on va se rencontrer \u00e0 la VDN en face de leurs si\u00e8ges",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "ElhadjiKandji1",
+            "id": "1235545483134873601"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1182768414",
+      "created_at": "2018-11-28T11:59:38.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "1067749859082543104"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066753438275510274"
+        }
+      ],
+      "id": "1067749859082543104",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0648 \u0642\u0627\u062f\u0648\u0627 \u0644\u064a\u0646\u0627 \u063a\u064a \u0627\u0644\u0648\u064a\u0641\u064a \u0644\u064a \u062a\u0646\u062e\u0644\u0635\u0648\u0627 \u0648\u0645\u062a\u0646\u062e\u062d\u0645\u0648\u0647\u0634 \u0648\u0627\u0644\u0644\u0647 \u062d\u062a\u0649 \u062d\u0631\u0627\u0645 8 \u0645\u064a\u063a\u0627 \u0645\u062a\u0646\u0634\u0643\u0648\u0627 \u0645\u0646\u0647\u0627 \u0648\u0627\u0644\u0648\u0648\u0648\u0648 \u062f\u064a\u0645\u0627 \u062a\u064a\u062a\u0642\u0637\u0639 \u0628\u0646\u0647\u0627\u0631 \u0648\u0627\u0644\u064a\u0648\u0645\u0627\u064a\u0646",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "128170614",
+      "created_at": "2015-10-27T15:50:54.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "659034544931254272"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "659034544931254272",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom  pas interess\u00e9e du tout",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.436
+    },
+    {
+      "author_id": "1316142674",
+      "created_at": "2024-06-08T14:56:25.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799455445158896091"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799455445158896091",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 266
+      },
+      "text": "@ElhadjiKandji1 Gnii ils nous sucent le sang bilahi \ud83d\ude2a\ud83d\udc94",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "ElhadjiKandji1",
+            "id": "1235545483134873601"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "457847527",
+      "created_at": "2024-06-08T16:26:36.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799478142966644940"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799478142966644940",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 229
+      },
+      "text": "@ElhadjiKandji1 cette comparaison n'a pas de sens",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "ElhadjiKandji1",
+            "id": "1235545483134873601"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1360936069",
+      "created_at": "2018-11-26T10:09:44.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "1066997426127429632"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066753438275510274"
+        }
+      ],
+      "id": "1066997426127429632",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0647\u0647\u0647\u0647  \u063a\u064a\u063r \u0646\u0635\u0628 \ud83d\ude02 \u062d\u062a\u0649 \u062d\u062f \u0645\u0627 \u0643\u064a\u0631\u0628\u062d",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "892120433679638528",
+      "created_at": "2018-06-16T00:08:29.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007776893721079809"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007776893721079809",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0627\u0644\u0645\u0647\u0645 \u0646\u062a\u0648\u0645\u0627 \u062a\u0644\u0627\u0641\u0633\u0648 \u0645\u0639\u0627 \u0631\u0648\u0633\u0643\u0645 \u0648\u062d\u0646\u0627 \u0646\u0633\u062a\u0627\u0641\u062f\u0648",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2017-02-13T11:19:53.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "769707708677296128",
+      "edit_history_tweet_ids": [
+        "831100578554077184"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "830651266149863424"
+        }
+      ],
+      "id": "831100578554077184",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "Bonjour @r_eljamai , Oui \ud83d\udcf1\nPlus d'infos \ud83d\udc49\ud83c\udffd https://t.co/lbQ7lHRv7n  \ud83d\ude09",
+      "entities": {
+        "mentions": [
+          {
+            "start": 8,
+            "end": 18,
+            "username": "r_eljamai",
+            "id": "769707708677296128"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1676002102768812046",
+      "created_at": "2024-06-08T16:13:44.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799474902988157165"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799474902988157165",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 240
+      },
+      "text": "@ElhadjiKandji1 Les appels de free l\u00e0 est-ce qu\u2019ils marchent vers les autres op\u00e9rateurs ?",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "ElhadjiKandji1",
+            "id": "1235545483134873601"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.7553000000000001
+    },
+    {
+      "author_id": "151787721",
+      "created_at": "2017-01-29T10:44:57.000Z",
+      "lang": "ht",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "825655970256805888"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "822055945593352193"
+        }
+      ],
+      "id": "825655970256805888",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom 3afakom barakaa mn la publicit\u00e9 f l profil diali. Anaa saken m3aa walidiaa w bikhir",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "71863213",
+      "created_at": "2018-06-16T11:36:03.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007949926096097280"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007949926096097280",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc J'ai cherch\u00e9 la page pour lik\u00e9 cette tweet. https://t.co/OBEhJTfy0x",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "2247811015",
+      "created_at": "2018-06-15T02:28:25.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007449720220893184"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007449720220893184",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0648\u0627\u062d\u064a\u0648 \u0644\u064a\u0646\u0627 \u0634\u064a \u0643\u0627\u062f\u0648 \u0644\u0644\u0643\u0648\u0644\u0634\u064a \u0645\u0627\u0634\u064a \u063a\u064a \u0635\u062d\u0627\u0628 \u0623\u0628\u0648\u0646\u0645\u0648\u0646 \u0643\u0644 \u0647\u062f\u0641 \u0644\u0644\u0645\u0646\u062a\u062e\u0628 \u06281 \u062c\u064a\u062c\u0627 \u0643\u0648\u0646\u0643\u0633\u064a\u0648\u0646 \ud83d\ude44 \u064a\u0627\u0644\u0627\u0647 \u0628\u064a\u0646\u0648 \u0644\u064a\u0646\u0627 \u0627\u0644\u062e\u0627\u0648\u0629\n#KhawaPeople",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "186006201",
+      "created_at": "2018-06-14T20:17:42.000Z",
+      "lang": "ar",
+      "edit_history_tweet_ids": [
+        "1007356427822882816"
+      ],
+      "id": "1007356427822882816",
+      "public_metrics": {
+        "retweet_count": 45,
+        "reply_count": 13,
+        "like_count": 216,
+        "quote_count": 33,
+        "bookmark_count": 1,
+        "impression_count": 0
+      },
+      "text": "\u0639\u0648\u0627\u0634\u0631 \u0645\u0628\u063r\u0648\u0643\u0629\u060c \u0648\u0641\u0631\u0648\u0633\u064a\u0627 \u0645\u063r\u0628\u0648\u062d\u0629.\n\u0643\u0644\u0646\u0627 \u062e\u0648\u062a @inwi @Maroc_Telecom #KhawaPeople https://t.co/Kdj5PSv9Gj",
+      "entities": {
+        "mentions": [
+          {
+            "start": 39,
+            "end": 44,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 45,
+            "end": 59,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "424627837",
+      "created_at": "2015-10-23T17:09:13.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1924688107",
+      "edit_history_tweet_ids": [
+        "657604701391888385"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "657567749447766016"
+        }
+      ],
+      "id": "657604701391888385",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@ASGOUN1 @Maroc_Telecom @Salma54382288 @e3Xf0oY9Z53Q9uf @Ali12669555 @ur_conscience01 @Sabhasame2 @RisouZizou @kkk22332  merci bcp",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "ASGOUN1",
+            "id": "1142447526727036928"
+          },
+          {
+            "start": 9,
+            "end": 23,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          },
+          {
+            "start": 24,
+            "end": 38,
+            "username": "Salma54382288",
+            "id": "3741517522"
+          },
+          {
+            "start": 39,
+            "end": 55,
+            "username": "e3Xf0oY9Z53Q9uf",
+            "id": "3643480042"
+          },
+          {
+            "start": 56,
+            "end": 68,
+            "username": "Ali12669555",
+            "id": "3047235412"
+          },
+          {
+            "start": 110,
+            "end": 119,
+            "username": "kkk22332",
+            "id": "2897132635"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "769707708677296128",
+      "created_at": "2017-02-12T05:34:29.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "830651266149863424"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "822055945593352193"
+        }
+      ],
+      "id": "830651266149863424",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom svp vous avez l'iphone 7 plus 128 go ?",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2017-02-01T14:48:54.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "409209872",
+      "edit_history_tweet_ids": [
+        "826804525990285312"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "826698493335060480"
+        }
+      ],
+      "id": "826804525990285312",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "\u0627\u0644\u0633\u0644\u0627\u0645 @aboutasnimadda , \u0627\u0644\u0645\u063r\u062c\u0648 \u0625\u0631\u0633\u0627\u0644 \u0631\u0642\u0645 \u0647\u0627\u062a\u0641\u0643\u0645 \u0648 \u0639\u0646\u0648\u0627\u0646\u0643\u0645 -\u0645\u0639 \u0627\u0644\u0645\u062d\u064a\u0646\u0629- \u0648 \u062c\u0645\u064a\u0639 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644 \u0625\u0644\u0649 cm(@)iam.ma \u0645\u0646 \u0623\u062c\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629. #MTSAV",
+      "entities": {
+        "mentions": [
+          {
+            "start": 7,
+            "end": 22,
+            "username": "aboutasnimadda",
+            "id": "409209872"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "109851039",
+      "created_at": "2018-06-15T23:53:01.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007773001583136768"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007773001583136768",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0628\u0627\u063a\u064a\u0646 \u062a\u0641\u0631\u0642\u0648 \u0634\u064a 1700 \u0645\u0644\u064a\u0627\u0631 \u062a\u0627 \u0646\u062a\u0648\u0645\u0627 \u0648\u0644\u0627\u061f",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "294264793",
+      "created_at": "2018-11-27T11:00:43.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "1067372644079685632"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066753438275510274"
+        }
+      ],
+      "id": "1067372644079685632",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0628\u0627\u0631\u0643\u0627 \u0645\u0646 \u0644\u0643\u0630\u0648\u0628 \n\u0641\u0631\u0642\u0648 \u063a\u064a\u063r 200 \u062f\u0631\u0647\u0645 \u0641 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062at \n\u0648 \u062a\u0643\u0633\u0628\u0648 \u0627\u0644\u0646\u0627\u0633 \n\u0645\u0627 \u0628\u0642\u0627\u062at\u0634 \u0646\u0641\u0631\u0642\u0648 \u0627\u0644\u062f\u064a\u0648\u0631 \u0648 \u0627\u0644\u0639\u0645\u0627\u0631\u0627\u062at \u0648 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062at",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1235545483134873601",
+      "created_at": "2024-06-08T12:55:38.000Z",
+      "lang": "fr",
+      "edit_history_tweet_ids": [
+        "1799425051034526012"
+      ],
+      "id": "1799425051034526012",
+      "public_metrics": {
+        "retweet_count": 330,
+        "reply_count": 10,
+        "like_count": 508,
+        "quote_count": 3,
+        "bookmark_count": 9,
+        "impression_count": 22044
+      },
+      "text": "Comparatif entre les forfaits mobiles en France et ceux de Orange au S\u00e9n\u00e9gal\n\n- Avec Syma Mobile de Free : pour 6500 francs tu as 130 Go avec appels et SMS en illimit\u00e9s\n\n- Avec Red by SFR et B&amp;YOU de Bouygues : pour 7800 francs tu as 130 Go avec appels et SMS en illimit\u00e9s\n\n(1/4) https://t.co/smzjopmaJk",
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.7553000000000001
+    },
+    {
+      "author_id": "107119173",
+      "created_at": "2024-06-08T13:32:44.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799434389253914866"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799434389253914866",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 403
+      },
+      "text": "@ElhadjiKandji1 @Mobtheboss01 Le fait qu\u2019il ne propose pas de connexion illimit\u00e9e molay wane ni niongui len ruiner\ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "ElhadjiKandji1",
+            "id": "1235545483134873601"
+          },
+          {
+            "start": 16,
+            "end": 29,
+            "username": "Mobtheboss01",
+            "id": "1317458986661220352"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1000384292512583680",
+      "created_at": "2018-11-27T08:32:50.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "1067335426011217920"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066753438275510274"
+        }
+      ],
+      "id": "1067335426011217920",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0627\u0646\u0627 \u0634\u0627\u0631\u0643\u062a \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629 \u0627\u0644\u0645\u0627\u0636\u064a \u0647\u0644 \u0627\u0646\u0627 \u0645\u0646 \u0627\u0644\u0645\u062d\u0636\u0648\u0636\u064a\u0646 \u0627\u0644\u0641\u0627\u0626\u0632\u064a\u0646   \u062b\u0645 \u0645\u062a\u0649 \u0633\u062a\u0639\u0644\u0646 \u0627\u0644\u0646\u062a\u0627\u0626\u062c",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "740966655984033792",
+      "created_at": "2018-11-25T19:34:22.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "1066777131374530560"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066753438275510274"
+        }
+      ],
+      "id": "1066777131374530560",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0631\u064a\u0632\u0648 \u062f\u064a\u0627\u0644\u0643\u0645 \u0643\u064a\u0627\u0644\u0648\u064a\u0644 \u0645\u0643\u062a\u0642\u0628\u0637\u0634 \u0639\u0646\u062d\u064a \u0643\u0648\u0646\u064a\u0643\u0633\u064a\u0648\u0646 \u0627\u0646\u062a\u063r\u0646\u062a 3g \u0627\u0648 4g \u0641\u0627\u0644\u062f\u0627\u0631 \u0648\u062e\u0627 \u062d\u062f\u0627\u064a\u0627 \u0627\u0648\u0646\u0637\u064a\u0646 \u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0642\u062f\u0647\u0627 \u0642\u062f \u0627\u0644\u0633\u062e\u0637",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "409209872",
+      "created_at": "2017-02-01T07:47:34.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "826698493335060480"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "822055945593352193"
+        }
+      ],
+      "id": "826698493335060480",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0627\u0644\u0645\u0634\u0643\u0644 \u0639\u0646\u062f\u064a 10 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0627\u0634\u062a\u0631\u0627\u0643\u0627\u062at \u0645\u0639\u0643\u0645 \u060c \u0627\u0644\u0627\u0646 \u0627\u0630\u0627 \u0644\u0645 \u064a\u062d\u0644 \u0627\u0644\u0645\u0634\u0643\u0644 \u0645\u0636\u0637\u0631 \u0644\u0644\u062a\u0648\u062c\u0647 \u0627\u0644\u0649 orange \u060c \u0643\u0641\u0627\u0646\u0627 \u0643\u0630\u0628\u0627 \u0648\u062e\u062d\u0627\u0639\u0627 \u060c c est le Maroc",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "51451425",
+      "created_at": "2018-06-14T22:43:13.000Z",
+      "lang": "en",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007393047535968257"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007393047535968257",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom Nice",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.71075
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2018-11-27T12:12:41.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "1000384292512583680",
+      "edit_history_tweet_ids": [
+        "1067390755159883776"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1067335426011217920"
+        }
+      ],
+      "id": "1067390755159883776",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@mostafa_khalfi \u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645\u060c\n \u0646\u062d\u0639\u0648\u0643 \u0644\u0632\u064a\u0627\u0631\u0629 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a\u060c \u0633\u0648\u0641 \u062a\u062c\u062f\u0648\u0646 \u062c\u0645\u064a\u0639 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644 \u0648\u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629 \nhttps://t.co/RcXtKfciVk\n\u064a\u0648\u0645 \u0633\u0639\u064a\u062f",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "mostafa_khalfi",
+            "id": "1000384292512583680"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "707003450",
+      "created_at": "2015-10-22T09:59:24.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "657134146066718720"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "657134146066718720",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u2764\u2764\ud83d\udc9a\ud83d\udc9a",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "3534468743",
+      "created_at": "2015-10-22T15:56:12.000Z",
+      "lang": "qme",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "657223938091687937"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "657223938091687937",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom #megamall_rabat",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "4038526996",
+      "created_at": "2015-10-28T09:06:29.000Z",
+      "lang": "en",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "659295159163703296"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "659295159163703296",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom  brav",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "191567176",
+      "created_at": "2017-01-31T12:30:42.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "826407355357229057"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "822055945593352193"
+        }
+      ],
+      "id": "826407355357229057",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom votre connexion ADSL est nulle. pensez a la r\u00e9parer",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1235545483134873601",
+      "created_at": "2024-06-08T12:55:44.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799425078184095867"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425067165876445"
+        }
+      ],
+      "id": "1799425078184095867",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 1,
+        "like_count": 35,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "impression_count": 1214
+      },
+      "text": "Place aux forfaits mobiles d\u2019Orange S\u00e9n\u00e9gal \n\n- Pour 2000 francs tu as 4 Go\n\n- Pour 3000 francs tu as 5 Go\n\n- Pour 5000 francs tu as 7 Go\n\n- Pour 10000 francs tu as 15 Go\n\n(3/4) https://t.co/lhGZw3rZkS",
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "796810024706314242",
+      "created_at": "2018-06-15T20:24:37.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007720552981782528"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007720552981782528",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0635\u0627\u0641\u064a \u0642\u0648\u0633\u062a\u0648 \u064a\u0627 \u0644\u062e\u0631\u0627",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1235545483134873601",
+      "created_at": "2024-06-08T13:01:29.000Z",
+      "lang": "tl",
+      "in_reply_to_user_id": "917742973546303489",
+      "edit_history_tweet_ids": [
+        "1799426522933240241"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425919817593203"
+        }
+      ],
+      "id": "1799426522933240241",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 671
+      },
+      "text": "@aly_thiam0 @orange_sn Gni nio raw deums walahi",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 11,
+            "username": "aly_thiam0",
+            "id": "917742973546303489"
+          },
+          {
+            "start": 12,
+            "end": 22,
+            "username": "orange_sn",
+            "id": "376733906"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2018-11-27T12:28:28.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "740966655984033792",
+      "edit_history_tweet_ids": [
+        "1067394724099760128"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066777131374530560"
+        }
+      ],
+      "id": "1067394724099760128",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@NourAlyakeen86 \u0627\u0644\u0633\u0644\u0627\u0645\u060c\n\u0627\u0644\u0645\u063r\u062c\u0648 \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0628\u0646\u0627 \u0639\u0644\u0649 888  \u0645\u0646 \u0623\u062c\u0644 \u0627\u0644\u062a\u062d\u0642\u0642 \u0648\u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629.\n\u0645\u063r\u062d\u0628\u0627\u064b \u0628\u0643\u0645.",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "NourAlyakeen86",
+            "id": "740966655984033792"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "770760888622149632",
+      "created_at": "2018-06-15T23:36:17.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007768788706693120"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007768788706693120",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0647\u064a \u0627\u0644\u062a\u0646\u0627\u0641\u0633\u064a\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0641\u064a \u062e\u0628\u0631 \u0643\u0627\u0646",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2015-10-19T19:30:18.000Z",
+      "lang": "fr",
+      "edit_history_tweet_ids": [
+        "656190655564136449"
+      ],
+      "id": "656190655564136449",
+      "public_metrics": {
+        "retweet_count": 32,
+        "reply_count": 17,
+        "like_count": 215,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "Match Maroc-Guin\u00e9e Equatoriale \nEnvoyez MAROC au 3333 et gagnez des s\u00e9jours \u00e0 Agadir \nhttps://t.co/Bjy6Nhk7Ph https://t.co/wDvFh5nhNy",
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2018-11-29T13:54:46.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "797778392061984768",
+      "edit_history_tweet_ids": [
+        "1068141221070209025"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1068113816834228224"
+        }
+      ],
+      "id": "1068141221070209025",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@kaizen_ma \u0627\u0644\u0633\u0644\u0627\u0645\u060c\n \u0627\u0644\u0645\u063r\u062c\u0648 \u0625\u0631\u0633\u0627\u0644 \u062c\u0645\u064a\u0639 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644 \u062d\u0648\u0644 \u0637\u0644\u0628\u0643\u0645 \u0648 \u0643\u0630\u0627 \u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 \u0645\u0639 \u0627\u0644\u0645\u062d\u064a\u0646\u0629 \u0639\u0628\u0631 \u0627\u0644\u0628\u063r\u064a\u062f \u0627\u0644\u0627\u0644\u0643\u062a\u063r\u0648\u0646\u064a \u0627\u0644\u0649 cm@iam.ma \u0645\u0646 \u0627\u062c\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629.\n \u0634\u0643\u063r\u0627\u064b",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 10,
+            "username": "kaizen_ma",
+            "id": "797778392061984768"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "342675014",
+      "created_at": "2015-10-25T21:36:32.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "658396749497802752"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "658396749497802752",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0644\u0627 \u063a\u064a\u063r \u0628\u0635\u062d\u0629 \ud83d\ude09",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "1073772499",
+      "created_at": "2015-10-21T18:41:34.000Z",
+      "lang": "en",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "656903167398031360"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "656903167398031360",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom no thank you",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5386
+    },
+    {
+      "author_id": "822791474366578690",
+      "created_at": "2017-01-21T13:30:52.000Z",
+      "lang": "und",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "822798618868547584"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "822055945593352193"
+        }
+      ],
+      "id": "822798618868547584",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom dar",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2017-01-19T12:19:45.000Z",
+      "lang": "ar",
+      "edit_history_tweet_ids": [
+        "822055945593352193"
+      ],
+      "id": "822055945593352193",
+      "public_metrics": {
+        "retweet_count": 16,
+        "reply_count": 18,
+        "like_count": 190,
+        "quote_count": 4,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "\u2709\ufe0f \u0627\u0628\u0639\u062b\u0648\u0627 \"DAR\" \u0627\u0644\u0649 4444 \u0623\u0648\ud83d\udcf1 \u0627\u062a\u0635\u0644\u0648\u0627 \u0628 4444\n#\u0627\u0644\u0642\u0631\u0639\u0629_\u0627\u0644\u0643\u0628\u063r\u0649_\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062at_\u0627\u0644\u0645\u063a\u0631\u0628 https://t.co/gGPuTxZun7",
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "917742973546303489",
+      "created_at": "2024-06-08T12:59:05.000Z",
+      "lang": "ht",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799425919817593203"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799425919817593203",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 718
+      },
+      "text": "@ElhadjiKandji1 Wa @orange_sn ay Deum laniou wayy",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "ElhadjiKandji1",
+            "id": "1235545483134873601"
+          },
+          {
+            "start": 19,
+            "end": 29,
+            "username": "orange_sn",
+            "id": "376733906"
+          }
+        ]
+      },
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "3667213881",
+      "created_at": "2015-10-19T19:36:46.000Z",
+      "lang": "und",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "656192282681548800"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "656190655564136449"
+        }
+      ],
+      "id": "656192282681548800",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom 3333",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "656190655564136449",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "909899585400827905",
+      "created_at": "2018-06-14T20:45:19.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007363374391361547"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007363374391361547",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u2764\u2764\ud83d\udc9a\ud83d\udc9a",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "968431745371656192",
+      "created_at": "2018-06-14T22:28:38.000Z",
+      "lang": "en",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007389375913713666"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007389375913713666",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom Nice one @OrangeMaroc  \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          },
+          {
+            "start": 43,
+            "end": 55,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.71075
+    },
+    {
+      "author_id": "1235545483134873601",
+      "created_at": "2024-06-08T12:55:42.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "1235545483134873601",
+      "edit_history_tweet_ids": [
+        "1799425067165876445"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1799425051034526012"
+        }
+      ],
+      "id": "1799425067165876445",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 1,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1217
+      },
+      "text": "- Avec Sosh : pour 8500 francs t\u2019as 130 Go et appels et SMS en illimit\u00e9s\n\n(2/4) https://t.co/itaBAE3voX",
+      "conversation_id": "1799425051034526012",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2017-01-31T13:11:39.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "191567176",
+      "edit_history_tweet_ids": [
+        "826417661097689088"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "826407355357229057"
+        }
+      ],
+      "id": "826417661097689088",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "Bonjour M @morihani , si vous pouvez nous envoyer vos coordonn\u00e9es (Fixe/Mobile/Ville) sur cm@iam.ma pour une intervention rapide #MTSAV",
+      "entities": {
+        "mentions": [
+          {
+            "start": 10,
+            "end": 19,
+            "username": "morihani",
+            "id": "191567176"
+          }
+        ]
+      },
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2018-11-25T18:00:13.000Z",
+      "lang": "ar",
+      "edit_history_tweet_ids": [
+        "1066753438275510274"
+      ],
+      "id": "1066753438275510274",
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 61,
+        "like_count": 288,
+        "quote_count": 10,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "\ud83d\udce2 #\u0627\u0644\u0642\u0631\u0639\u0629_\u0627\u0644\u0643\u0628\u063r\u0649_\u0644\u0627\u062a\u0635\u0627\u0644\u0627\u062at_\u0627\u0644\u0645\u063a\u0631\u0628 \u0631\u062c\u0639\u0627\u062at \u0644\u0643\u0645 \u0628 10 \u062f\u064a\u0627\u0644 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062at \u0627\u0644\u0641\u0627\u062e\u0631\u0629\ud83c\udf81\ud83c\udf81\ud83c\udf81\n \u0645\u0627 \u0639\u0644\u064a\u0643\u0645 \u063a\u064a\u063r \u062a\u0634\u0627\u0631\u0643\u0648\u0627 \u0641\u064a \u0627\u0644\u0642\u0631\u0639\u0629 \u0628\u0627\u0634 \u062a\u0643\u0648\u0646\u0648\u0627 \u0645\u0646 \u0627\u0644\u0645\u062d\u0638\u0648\u0638\u064a\u0646 \u0628\u0627\u0644\u0641\u0648\u0632 \u0628\u0648\u062d\u062f\u0629 \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062at\ud83d\ude09\nhttps://t.co/k91NMcgaAz https://t.co/498RkPszMt",
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "215612093",
+      "created_at": "2017-02-02T10:53:25.000Z",
+      "lang": "fr",
+      "in_reply_to_user_id": "162869825",
+      "edit_history_tweet_ids": [
+        "827107650424958977"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "826913104290258945"
+        }
+      ],
+      "id": "827107650424958977",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "Bonjour @MYM_Kuzan , pouvez-vous nous envoyer le n\u00b0 de tel en question + la ville \u00e0 cm@iam.ma pour que nous puissions vous aider ? #MTSAV \ud83d\ude42",
+      "conversation_id": "822055945593352193",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "797778392061984768",
+      "created_at": "2018-11-29T12:05:53.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "215612093",
+      "edit_history_tweet_ids": [
+        "1068113816834228224"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1066753438275510274"
+        }
+      ],
+      "id": "1068113816834228224",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@Maroc_Telecom \u0623\u0633\u0628\u0648\u0639 \u0628\u0644\u0627 \u0641\u064a\u0643\u0633/\u0623\u062f\u0633\u0644 \u062d\u062a\u0649 \u062a\u0642\u0646\u064a \u0645\u0633\u0648\u0644 \u0648\u0627\u0634 \u0628\u063a\u064a\u062a\u0648 \u062a\u063r\u062c\u0639\u0648\u0646\u0627 \u0628\u062d\u0627\u0644 \u0633\u0648\u0631\u064a\u0627 \ud83d\ude24\ud83d\ude24\ud83d\ude24",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1066753438275510274",
+      "sentiment_score": 0.5
+    },
+    {
+      "author_id": "503710093",
+      "created_at": "2018-06-14T21:59:04.000Z",
+      "lang": "ar",
+      "in_reply_to_user_id": "186006201",
+      "edit_history_tweet_ids": [
+        "1007381938259288065"
+      ],
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1007356427822882816"
+        }
+      ],
+      "id": "1007381938259288065",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "text": "@OrangeMaroc @inwi @Maroc_Telecom \u0648\u0627\u0648\ud83d\udc4f",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "OrangeMaroc",
+            "id": "186006201"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "username": "inwi",
+            "id": "240605430"
+          },
+          {
+            "start": 19,
+            "end": 33,
+            "username": "Maroc_Telecom",
+            "id": "215612093"
+          }
+        ]
+      },
+      "conversation_id": "1007356427822882816",
+      "sentiment_score": 0.5
+    }
+  ]
